@@ -373,7 +373,7 @@
       (net 9 "/IO3") (pinfunction "IO3") (pintype "bidirectional") (tstamp 4f991a4d-c714-473e-a823-11186737106b))
     (pad "8" smd roundrect (at 3.6 -1.905) (size 1.6 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 2 "+3.3V") (pinfunction "VCC") (pintype "power_in") (tstamp ed2745a5-78cd-4f1c-aa94-043b5837fa91))
-    (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8_5.23x5.23mm_P1.27mm.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8_5.275x5.275mm_P1.27mm.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
