@@ -21,19 +21,58 @@ Features:
 - Simple 2 layer board design
 - Common for DIY 2.54mm pitch connector
 
+CAM files are available.
+JLCPCB BOM and CPL files are available.
+
 ### W25Q-BRD-0010 v1.0
 
 Preview:
 
 ![W25Q-BRD v1.0 preview](img/W25Q-BRD-0010.png)
 
-This board is missing optional capacitors, which was added in v1.1 of the board.
+This board is missing optional capacitors, which were added in v1.1 of the board.
 
 ### W25Q-BRD-0010 v1.1
 
 Preview:
 
 ![W25Q-BRD v1.1 preview](img/W25Q-BRD-0011.png)
+
+## Board pinout
+
+<table>
+    <thead>
+        <tr>
+            <th>Pin</th><th>SPI mode</th><th>QSPI mode</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>3V3</td><td colspan=2>VCC of the chip, 3.3V</td>
+        </tr>
+        <tr>
+            <td>NCS</td><td colspan=2>Chip select signal</td>
+        </tr>
+        <tr>
+            <td>IO0</td><td>Data input</td><td>Data IO 0</td>
+        </tr>
+        <tr>
+            <td>IO1</td><td>Data output</td><td>Data IO 1</td>
+        </tr>
+        <tr>
+            <td>IO2</td><td>-</td><td>Data IO 2</td>
+        </tr>
+        <tr>
+            <td>IO3</td><td>-</td><td>Data IO 3</td>
+        </tr>
+        <tr>
+            <td>CLK</td><td colspan=2>(Q)SPI clock signal</td>
+        </tr>
+        <tr>
+            <td>GND</td><td colspan=2>Ground</td>
+        </tr>
+    </tbody>
+</table>
 
 ## Links
 
