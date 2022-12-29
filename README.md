@@ -20,6 +20,7 @@ Features:
 - Runs in SPI and QSPI modes
 - Simple 2 layer board design
 - Common for DIY 2.54mm pitch connector
+- Features SIOC-8 and WSON-8(6x5) footprints
 
 CAM files are available.
 JLCPCB BOM and CPL files are available.
@@ -30,13 +31,23 @@ Preview:
 
 ![W25Q-BRD v1.0 preview](img/W25Q-BRD-0010.png)
 
-This board is missing optional capacitors, which were added in v1.1 of the board.
+Initial version of the board.
 
 ### W25Q-BRD-0010 v1.1
 
 Preview:
 
 ![W25Q-BRD v1.1 preview](img/W25Q-BRD-0011.png)
+
+Added capacitors for better voltage stability.
+
+### W25Q-BRD-0010 v1.2
+
+Preview:
+
+![W25Q-BRD v1.2 preview](img/W25Q-BRD-0012.png)
+
+Added alternative WSON footprint to add more fabrication options.
 
 ## Board pinout
 
