@@ -25,7 +25,7 @@ Features:
 CAM files are available.
 JLCPCB BOM and CPL files are available.
 
-### W25Q-BRD-0010 v1.0
+### W25Q-BRD v1.0
 
 Preview:
 
@@ -33,7 +33,7 @@ Preview:
 
 Initial version of the board.
 
-### W25Q-BRD-0010 v1.1
+### W25Q-BRD v1.1
 
 Preview:
 
@@ -41,7 +41,7 @@ Preview:
 
 Added capacitors for better voltage stability.
 
-### W25Q-BRD-0010 v1.2
+### W25Q-BRD v1.2
 
 Preview:
 
@@ -91,7 +91,8 @@ Added alternative WSON footprint to add more fabrication options.
 
 ## How to help
 
-Your contributions as code, resources or finances are welcome!
-Please contact me directly over e-mail andriy.golovnya@gmail.com or over [GitHub profile](https://github.com/red-scorp).
-Link for [Paypal donations](http://paypal.me/redscorp) and [Ko-Fi donations](http://ko-fi.com/redscorp), which are always welcome.
+Your contributions as code, resources, or finances are welcome! Please contact me directly via email at andriy.golovnya@gmail.com or through my [GitHub profile](https://github.com/red-scorp).
+
+If you'd like to make a financial contribution, you can donate via [PayPal](http://paypal.me/redscorp) or [Ko-Fi](http://ko-fi.com/redscorp). Your support is greatly appreciated.
+
 Thanks in advance!
